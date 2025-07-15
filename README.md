@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Italianno&size=40&center=true&vCenter=true&color=957BFF&width=700&height=70&duration=6000&lines=Hello+This+is+Yeamin+Hossain+Shihab!👋;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Italianno&size=40&center=true&vCenter=true&color=957BFF&width=700&height=70&duration=5000&lines=Hello+This+is+Yeamin+Hossain+Shihab!👋;" />
 </h1>
 
 <h3 align="center">An aspiring Software Engineer and ML Enthusiastic </h3>
@@ -14,7 +14,7 @@
  
  🌚<h3 align="center"> I love math and visualising snippet of code </h3>
  
- 🙋🏻‍♂️ Ask me about **Python, JavaScript, Java, ... or anything [here](https://github.com/Yeamin-HS/Yeamin-HS/issues)**
+<br/>
 
  
 
