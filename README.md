@@ -42,7 +42,11 @@
 </div>
 
 <br/>
-
+<div align=center>
+  <img width=500 src="https://github-readme-stats.vercel.app/api?username=Yeamin-HS&theme=react&show_icons=true&hide_border=true&count_private=true" alt=""/>
+  <img width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=Yeamin-HS&theme=react&hide_border=true" alt=""/>
+  <img width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeamin-HS&theme=react&show_icons=true&hide_border=true&layout=donut" alt=""/>
+</div>
 
 
 
