@@ -47,6 +47,17 @@
   <img width=450 src="https://github-readme-streak-stats.herokuapp.com/?user=Yeamin-HS&theme=onedark&hide_border=true" alt=""/>
   <img width=450 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeamin-HS&theme=cobalt&show_icons=true&hide_border=true&layout=donut" alt=""/>
 </div>
+<br/>
 
+<div>
+<username>## 📊 My GitHub Activity
+![Yeamin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yeamin-HS&theme=react-dark&hide_border=true)
+</username>
+
+
+
+
+    
+</div>
 
 
