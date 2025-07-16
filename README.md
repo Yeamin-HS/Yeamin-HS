@@ -49,15 +49,7 @@
 </div>
 <br/>
 
-<div>
-<username>## 📊 My GitHub Activity
-![Yeamin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yeamin-HS&theme=react-dark&hide_border=true)
-</username>
-
-
-
-
-    
-</div>
-
-
+<h2 align="center">📊 My GitHub Activity</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yeamin-HS&theme=react-dark&hide_border=true" alt="Yeamin's Activity Graph"/>
+</p>
