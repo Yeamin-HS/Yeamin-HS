@@ -54,6 +54,5 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yeamin-HS&theme=react-dark&hide_border=true" alt="Yeamin's Activity Graph"/>
 </p>
 </br>
-## ✨ Mathematical Animation
 
-<img src="https://raw.githubusercontent.com/LeetCode-OpenSource/hire/main/docs/img/math-animation.svg" width="400"/>
+
